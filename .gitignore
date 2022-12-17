@@ -4,5 +4,8 @@
 # Ignore Crypto.json because the mod doesn't use pak file encryption
 /Modding/*
 
+# Ignore CSS assets directory for copyright reasons. It just contains some meshes I exported from the game.
+/Content/Models/CSS/*
+
 # Ignore my various source assets
 # /SourceAssets/*
