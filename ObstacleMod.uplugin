@@ -15,14 +15,12 @@
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
-	"AcceptsAnyRemoteVersion": false,
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.6.0",
+			"SemVersion": "^3.6.1",
 			"Enabled": true,
 			"BasePlugin": false
 		}
-	],
-	"RemoteVersionRange": ""
+	]
 }
