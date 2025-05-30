@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 2,
-	"VersionName": "2.0.2",
-	"SemVersion": "2.0.2",
+	"VersionName": "2.1.0",
+	"SemVersion": "2.1.0",
 	"FriendlyName": "SatisWHACKtory",
 	"Description": "FICSIT Inc. is not responsible for any injuries caused by the use of this mod.",
 	"Category": "Modding",
@@ -18,14 +18,14 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.9.1",
+			"SemVersion": "^3.11.0",
 			"Enabled": true
 		},
 		{
 			"Name": "ModUpdateNotifier",
 			"Enabled": true,
-			"SemVersion": "^2.2.1"
+			"SemVersion": "^2.4.0"
 		}
 	],
-	"GameVersion": ">=383729"
+	"GameVersion": ">=410840"
 }
